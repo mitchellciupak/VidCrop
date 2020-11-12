@@ -10,11 +10,11 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": [
-                "sdfsd.mp4",
-                "200",
-                "300"
-            ]
+            // "args": [
+            //     "sdfsd.mp4",
+            //     "200",
+            //     "300"
+            // ]
         }
     ]
 }
